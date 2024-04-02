@@ -1,5 +1,5 @@
-                 # NAME   :  VIGNESH.M
-                 # REG NO : 212223040235
+                                              NAME   :  VIGNESH.M
+                                              REG NO : 212223040235
 # EX-02 Fitting Poisson  distribution
 # Aim : 
 
